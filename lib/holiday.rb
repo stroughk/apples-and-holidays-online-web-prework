@@ -16,6 +16,8 @@ def second_supply_for_fourth_of_july(holiday_hash)
   #   :spring => {
   #     :memorial_day => ["BBQ"]
   #   }
+  
+  holiday_hash[:summer][:fourth_of_july][1]
   # }
   
   
